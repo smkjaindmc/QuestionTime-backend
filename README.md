@@ -3,5 +3,10 @@ Single page web application made using django rest framework and vue.js. Involve
 website. Involves user creation and login. User can ask questions, answer questions, edit questions and answers, delete questions and answers.
 User can upvote for answers. REST Api made using Django rest framework.
 
-Link of project video:- 
+### How to run Backend ?
+First navigate to project folder and then type in cmd:-
+python manage.py runserver
+
+
+### Link of project video:- 
 https://drive.google.com/open?id=1-4PR_At1oXvAz4rVAR6KqZMN2yZ3STZk
