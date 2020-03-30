@@ -5,7 +5,10 @@ User can upvote for answers. REST Api made using Django rest framework.
 
 ### How to run Backend ?
 First navigate to project folder and then type in cmd:-
+
 python manage.py runserver
+
+
 
 
 ### Link of project video:- 
